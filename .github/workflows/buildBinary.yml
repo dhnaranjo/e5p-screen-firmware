@@ -56,6 +56,6 @@ jobs:
         uses: actions-x/commit@v6
         with:
           email: itsdesmond@hey.com
-          name: Desmond Naranjo
+          name: Desmond Naranjo (Action)
           message: 📦️ Update prebuilt binaries and config
           token: ${{ secrets.GITHUB_TOKEN }}
